@@ -32,11 +32,6 @@ body {
     padding: 0 5rem;
 }
 
-.hamburger {
-    display: none;
-    color: #fff;
-    font-size: 25px;
-}
 
 .cross-icon {
     display: none;
